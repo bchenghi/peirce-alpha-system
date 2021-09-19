@@ -1,1 +1,1 @@
-Peirce's Existential Graph (Alpha) assistant prover in python and prolog
+Peirce's Existential Graph (Alpha) assistant prover in python and prolo
